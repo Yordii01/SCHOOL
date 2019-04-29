@@ -3,9 +3,6 @@ body{
     padding: 0;
     background-color:#efe3e3;
 
-	-webkit-animation: Gradient 10s linear infinite;
-	-moz-animation: Gradient 10s linear infinite;
-	animation: Gradient 10s linear infinite; 
 }
 @font-face {
 font-family: MEDIEVAL;
